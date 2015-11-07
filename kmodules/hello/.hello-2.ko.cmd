@@ -1,0 +1,1 @@
+cmd_/home/mpacek/Dokumenty/KernelModules/hello/hello-2.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-37-generic/scripts/module-common.lds --build-id  -o /home/mpacek/Dokumenty/KernelModules/hello/hello-2.ko /home/mpacek/Dokumenty/KernelModules/hello/hello-2.o /home/mpacek/Dokumenty/KernelModules/hello/hello-2.mod.o
